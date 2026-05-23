@@ -8,7 +8,6 @@ Food Roulette integrates multiple real-world mapping and location APIs (Foursqua
 
 ## 📸 Previews
 
-*(Replace the placeholder links below with your actual screenshot images once you upload them!)*
 
 ### 1. Finding Local Restaurants
 ![Search and Filter Results](insert_image_link_here)
