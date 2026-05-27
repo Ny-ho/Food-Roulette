@@ -10,15 +10,18 @@ Food Roulette integrates multiple real-world mapping and location APIs (Foursqua
 
 
 ### 1. Finding Local Restaurants
-![Search and Filter Results](insert_image_link_here)
+<img width="1919" height="968" alt="Screenshot 2026-05-19 210052" src="https://github.com/user-attachments/assets/18afb646-c969-4110-bccb-ba4b8486212d" />
+
 *Users can auto-detect their location via GPS, and filter results dynamically by Cuisine or Rating.*
 
 ### 2. The Roulette Spin
-![Spin Animation](insert_image_link_here)
+<img width="693" height="692" alt="Screenshot 2026-05-19 210122" src="https://github.com/user-attachments/assets/1f837491-854a-4a60-8926-0c7ec9bd4c2d" />
+
 *A custom-built Slot Machine animation builds suspense before revealing the chosen restaurant.*
 
 ### 3. The Final Result
-![Result and Google Maps Integration](insert_image_link_here)
+<img width="1915" height="945" alt="Screenshot 2026-05-19 210231" src="https://github.com/user-attachments/assets/888f0c7d-9015-4af6-adb1-4b2c798a0e12" />
+
 *Displays the winning location, a randomly generated 'Chef's Choice' dish/drink, and a direct deep-link to Google Maps for navigation.*
 
 ---
